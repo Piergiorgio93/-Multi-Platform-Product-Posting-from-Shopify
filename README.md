@@ -270,9 +270,9 @@ This project is distributed under the MIT License. See [LICENSE](LICENSE) for de
 
 ## Author
 
-**Piergiorgio Marigliano**
+**Piergiorgio Marigliano,Phd**
 
-Researcher in Statistics & Quantitative Methods | Python Developer
+Researcher in Statistics & Quantitative Methods | Lecturer in Statistics
 
 ---
 
